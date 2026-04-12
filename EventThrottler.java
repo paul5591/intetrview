@@ -1,4 +1,4 @@
-package ru.lgnpvl.aop_attempt.controller;
+package ru.example.org.my_code;
 /*
 Реализуйте throttler для ограничения частоты событий от IoT устройств.
 Датчики отправляют события, но нужно контролировать их частоту для экономии bandwidth.
